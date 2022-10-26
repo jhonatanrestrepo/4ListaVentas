@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE listaVentas SYSTEM "ReglasVentas.dtd">
+<listaVentas>
+    <venta>
+        <importe>500</importe>
+        <comprador>Jhonatan</comprador>
+        <vendedor>Juan</vendedor>
+        <fecha>25-10-2022</fecha>
+        <codigoFactura>COD0001</codigoFactura>
+    </venta>
+</listaVentas>
